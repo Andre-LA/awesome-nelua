@@ -3,11 +3,11 @@ A curated list of awesome frameworks, libraries and software for the nelua progr
 
 ## Contents
 - [awesome-nelua](https://github.com/AKDev21/awesome-nelua/)
-  - [Package Manager](https://github.com/AKDev21/awesome-nelua#package-manager) <br>
-  - [Web](https://github.com/AKDev21/awesome-nelua#package-manager) <br>
-  - [Games](https://github.com/AKDev21/awesome-nelua#package-manager) <br>
-  - [Graphics and Game Development](https://github.com/AKDev21/awesome-nelua#package-manager) <br>
-  - [IDE and Code Editor Support](https://github.com/AKDev21/awesome-nelua/blob/main/README.md#ide-and-code-editor-support) <br>
+  - [Package Manager](#package-manager) <br>
+  - [Web](#Web) <br>
+  - [Games](#Games) <br>
+  - [Graphics and Game Development](#Graphics-and-Game-Development) <br>
+  - [IDE and Code Editor Support](#ide-and-code-editor-support) <br>
 
 ### Package Manager
 - [pancake-pm](https://github.com/linkpy/pancake-pm) - Pancake Package Manager for Nelua <br>
