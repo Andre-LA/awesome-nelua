@@ -28,6 +28,9 @@ A curated list of awesome frameworks, libraries and software for the nelua progr
 - [tico-nelua](https://github.com/Andre-LA/tico-nelua) - Tinycoffee binding for Nelua <br>
 - [nene](https://github.com/Andre-LA/nene) - Tiny game library built around SDL2 and it's extension libraries, written in Nelua <br>
 
+### IDE and Code Editor Support
+- [nelua-sublime](https://github.com/edubart/nelua-sublime) - Nelua syntax highlighting for Sublime Text <br>
+
 ### Testing
 - [Lester](https://github.com/edubart/lester) - Lester is a minimal unit testing framework for Lua with a focus on being simple to use. <br>
 
