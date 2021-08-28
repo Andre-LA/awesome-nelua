@@ -4,10 +4,13 @@ A curated list of awesome frameworks, libraries and software for the nelua progr
 ## Contents
 - [awesome-nelua](https://github.com/AKDev21/awesome-nelua/)
   - [Package Manager](https://github.com/AKDev21/awesome-nelua#package-manager) <br>
-  - [Web](https://github.com/AKDev21/awesome-nelua#package-manager) <br>
-  - [Games](https://github.com/AKDev21/awesome-nelua#package-manager) <br>
-  - [Graphics and Game Development](https://github.com/AKDev21/awesome-nelua#package-manager) <br>
+  - [Web](https://github.com/AKDev21/awesome-nelua#web) <br>
+  - [Games](https://github.com/AKDev21/awesome-nelua#games) <br>
+  - [Graphics and Game Development](https://github.com/AKDev21/awesome-nelua#graphics-and-game-development) <br>
   - [IDE and Code Editor Support](https://github.com/AKDev21/awesome-nelua/blob/main/README.md#ide-and-code-editor-support) <br>
+  - [Testing](https://github.com/AKDev21/awesome-nelua#testing) <br>
+  - [Benchmark](https://github.com/AKDev21/awesome-nelua#benchmark) <br>
+  - [Extra](https://github.com/AKDev21/awesome-nelua#extra) <br>
 
 ### Package Manager
 - [pancake-pm](https://github.com/linkpy/pancake-pm) - Pancake Package Manager for Nelua <br>
@@ -40,7 +43,7 @@ A curated list of awesome frameworks, libraries and software for the nelua progr
 ### Testing
 - [Lester](https://github.com/edubart/lester) - Lester is a minimal unit testing framework for Lua with a focus on being simple to use. <br>
 
-### BenchMark
+### Benchmark
 - [nelua-benchmarks](https://github.com/edubart/nelua-benchmarks) - Benchmarks for comparing efficiency of Nelua with Lua, LuaJIT and C <br>
 
 ### Extra
